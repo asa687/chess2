@@ -1,0 +1,10 @@
+each square is 100 by 100, so the board needs to be 800/800 for an accurate size 
+
+r k b q k b r k 
+p p p p p p p p 
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 
+p p p p p p p p 
+r k b k q b r k 
